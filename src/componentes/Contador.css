@@ -1,0 +1,12 @@
+.btn-count {
+  border: 5px solid #252525;
+  background-color: #252525;
+  color: #ffffff;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.btn-count:hover {
+  color: #c86414;
+  transform: scale(1.1);
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fender Stratocaster Player",
+    "precio": 1250000,
+    "stock": 4,
+    "imagen": "/1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Gibson Les Paul Standard",
+    "precio": 2800000,
+    "stock": 2,
+    "imagen": "/2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Ibanez RG Series Special Edition",
+    "precio": 950000,
+    "stock": 6,
+    "imagen": "/3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Fender FA-25 Dreadnought",
+    "precio": 235000,
+    "stock": 3,
+    "imagen": "/4.jpg"
+  }
+]
